@@ -1,0 +1,73 @@
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml nytimes world
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml nytimes world
+https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml nytimes world
+https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml nytimes world
+https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml nytimes world
+https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml nytimes world
+https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml nytimes world
+https://rss.nytimes.com/services/xml/rss/nyt/Education.xml nytimes us
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml nytimes us
+https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml nytimes us
+https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml nytimes
+https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml nytimes us politics
+https://rss.nytimes.com/services/xml/rss/nyt/Business.xml nytimes business
+https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml nytimes business
+https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml nytimes business
+https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml nytimes business
+https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml nytimes business
+https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml nytimes business
+https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml nytimes business
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml nytimes technology
+https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml nytimes technology
+https://rss.nytimes.com/services/xml/rss/nyt/Science.xml nytimes science
+https://rss.nytimes.com/services/xml/rss/nyt/Health.xml nytimes health
+https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml nytimes sports
+https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml nytimes science
+https://rss.nytimes.com/services/xml/rss/nyt/Space.xml nytimes science
+https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/Books.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/SundayBookReview.xml nytimes arts books
+https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/Music.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/Television.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml nytimes style
+https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml nytimes style
+https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml nytimes style
+https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml nytimes style
+https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml nytimes
+https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml nytimes arts
+https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml nytimes marketplace
+https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml nytimes marketplace
+https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml nytimes marketplace
+https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml nytimes other
+https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml nytimes other
+https://content.api.nytimes.com/svc/news/v3/all/recent.rss nytimes other
+https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml nytimes other stats
+https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml nytimes other stats
+https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml nytimes other stats
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/charles-m-blow/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/jamelle-bouie/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-brooks/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/frank-bruni/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/gail-collins/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/maureen-dowd/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/thomas-l-friedman/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/michelle-goldberg/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/nicholas-kristof/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/paul-krugman/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/farhad-manjoo/rss.xml nytimes opinion columnists
+https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/bret-stephens/rss.xml nytimes opinion columnists
+https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml nytimes opinion
